@@ -13,7 +13,6 @@ EXTERN lstrlenA@4: PROC
 
 .CONST
 
-mul_coef dd 10 ; Коэффициент шага при переводе
 
 .DATA ; data segment
 
